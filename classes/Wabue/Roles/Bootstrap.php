@@ -8,8 +8,9 @@ namespace Wabue\Roles;
  */
 
 use Elgg\DefaultPluginBootstrap;
+use Elgg\PluginBootstrapInterface;
 
-class Bootstrap extends DefaultPluginBootstrap
+class Bootstrap extends DefaultPluginBootstrap implements PluginBootstrapInterface
 {
     public function init()
     {
