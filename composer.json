@@ -1,0 +1,21 @@
+{
+  "name": "dploeger/roles",
+  "description": "Elgg Roles Plugin",
+  "type": "elgg-plugin",
+  "keywords": [
+    "elgg",
+    "plugin"
+  ],
+  "license": "Expat (MIT) License,",
+  
+  "support": {
+    "source": "https://github.com/dploeger/elgg-plugin-roles",
+    "issues": "https://github.com/dploeger/elgg-plugin-roles/issues"
+  },
+  "require": {
+    "composer/installers": "^1.0.8"
+  },
+  "conflict": {
+    "elgg/elgg": "<3.0.0"
+  }
+}
