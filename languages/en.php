@@ -7,6 +7,5 @@
  */
 
 return [
-    // 'my:text:key' => 'english text'
-    // Use it with elgg_echo('my:text:key')
+    'roles:settings:definition' => 'Role definition. Format: user:role,role. One user per line'
 ];
