@@ -6,8 +6,7 @@
     "elgg",
     "plugin"
   ],
-  "license": "Expat (MIT) License,",
-  
+  "license": "MIT",
   "support": {
     "source": "https://github.com/wabuehamm/elgg-plugin-roles",
     "issues": "https://github.com/wabuehamm/elgg-plugin-roles/issues"
